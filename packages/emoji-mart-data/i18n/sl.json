@@ -1,0 +1,29 @@
+{
+  "search": "Iskanje",
+  "search_no_results_1": "Oh ne!",
+  "search_no_results_2": "Sledečega emodžija ni bilo mogoče najti",
+  "pick": "Izberite emodži…",
+  "add_custom": "Dodajte svoj emodži",
+  "categories": {
+    "activity": "Dejavnost",
+    "custom": "Po meri",
+    "flags": "Zastave",
+    "foods": "Hrana in pijača",
+    "frequent": "Pogosto uporabljen",
+    "nature": "Živali in narava",
+    "objects": "Predmeti",
+    "people": "Smeški in ljudje",
+    "places": "Potovanja in kraji",
+    "search": "Rezultati iskanja",
+    "symbols": "Simboli"
+  },
+  "skins": {
+    "choose": "Izberite privzeti ton kože",
+    "1": "Privzeto",
+    "2": "Svetlo",
+    "3": "Srednje svetlo",
+    "4": "Srednje",
+    "5": "Srednje temno",
+    "6": "Temno"
+  }
+}
